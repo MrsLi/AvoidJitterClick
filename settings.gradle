@@ -1,0 +1,3 @@
+include ':avoidjitter'
+include ':app'
+rootProject.name = "AvoidJitterClick"
